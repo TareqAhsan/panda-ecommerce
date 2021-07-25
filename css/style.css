@@ -1,0 +1,16 @@
+.bg-panda{
+    background-color: #feeae9;
+    border-radius: 15px;
+}
+#getouch{
+    min-height: 250px;
+}
+.categories img{
+    width: 100px;
+}
+.product img{
+    transition:transform 1s ease .5s;
+}
+.product img:hover{
+    transform: scale(1.1);
+}
